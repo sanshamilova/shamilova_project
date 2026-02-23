@@ -1,0 +1,5 @@
+git add <file> - добавить файл в staging area
+git init - инициализировать репозиторий
+git status - проверить статус репозитория
+git commit -m message - создать коммит
+git log - просмотр истории коммитов
